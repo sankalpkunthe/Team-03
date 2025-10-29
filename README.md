@@ -6,4 +6,4 @@
 
 3. Now I imported pretrained EDSR(*2 upscaling) from Hugging Face. Using MSE loss and Adam optimizer, tried to minimize pixel difference between SR output and HR image
 
-4. Lastly I plotted training and validation loss.
+4. Lastly I plotted training and validation loss using matplotlib.
